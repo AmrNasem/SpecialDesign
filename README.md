@@ -1,2 +1,2 @@
 # SpecialDesign
-HTML, CSS and Pure Javascript Website
+HTML, CSS and Pure Javascript Website - Special Design
